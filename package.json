@@ -1,0 +1,21 @@
+{
+    "name": "mydraculatheme",
+    "displayName": "MyDraculaTheme",
+    "description": "Almost no contrast Dracula Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MyDraculaTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MyDraculaTheme-color-theme.json"
+            }
+        ]
+    }
+}
