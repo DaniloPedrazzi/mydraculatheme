@@ -2,13 +2,32 @@
     "name": "mydraculatheme",
     "displayName": "MyDraculaTheme",
     "description": "Almost no contrast Dracula Theme",
-    "version": "0.0.1",
+    "version": "0.0.1","preview": true,
+	"publisher": "xCUELHO",
+	"license": "MIT",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xCUELHO/mydraculatheme"
+	},
+	"bugs": {
+		"url": "https://github.com/xCUELHO/mydraculatheme/issues"
+	},
     "engines": {
         "vscode": "^1.68.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"dracula",
+		"dark",
+		"theme",
+		"color-theme",
+		"clean",
+		"contrast",
+		"better"
+	],
     "contributes": {
         "themes": [
             {
